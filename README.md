@@ -1,4 +1,4 @@
-FlashCards-FR_To_ENG
+FlashCards-French to English
 
 Description
 FlashCards-FR_To_ENG is a simple yet effective flashcard application built with Python and Tkinter. It helps users to learn French-to-English vocabulary through interactive flashcards that flip between French words and their English translations. 
@@ -22,7 +22,7 @@ Usage
 3. Click the buttons to flip through the cards and test your knowledge of French-to-English vocabulary.
 
 How to Contribute
-Feel free to open issues or create pull requests if you have suggestions or improvements. All contributions are welcome!
+If you have suggestions or improvements, feel free to open issues or create pull requests. All contributions are welcome!
 
 License
 This project is licensed under the MIT License.
